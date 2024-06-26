@@ -1,1 +1,1 @@
-from easzlab/kubeasz:3.6.4
+from docker.io/easzlab/kubeasz:3.6.4
